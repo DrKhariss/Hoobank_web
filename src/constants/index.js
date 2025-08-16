@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
+      "Hoobank makes banking feel effortless. I can manage my money, track my spending, and send transfers in seconds. It’s like having a personal finance assistant in my pocket.",
     name: "Herman Jensen",
-    title: "Founder & Leader",
+    title: "Content Creator",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "I switched to Hoobank a few months ago and honestly, I’m never going back. Asides the clean design, payments are super quick, and I don’t get bogged down with the usual banking headaches.",
     name: "Steve Mark",
-    title: "Founder & Leader",
+    title: "University Student",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
+      "Hoobank just gets it! No hidden fees, no complicated steps. Just smooth, modern banking that actually works the way I live. It feels more like a tech app than a bank.",
     name: "Kenn Gallagher",
-    title: "Founder & Leader",
+    title: "Tech Startup Founder",
     img: people03,
   },
 ];
